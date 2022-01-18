@@ -1,0 +1,7 @@
+MICRO_SPEECH_BASE=$(pwd)
+cd zephyr-on-litex-vexriscv
+source ./init
+cd $MICRO_SPEECH_BASE
+
+source ${PATH_TO_VIVADO_TOOLCHAIN}/settings64.sh
+
