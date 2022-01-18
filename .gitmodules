@@ -1,0 +1,6 @@
+[submodule "zephyr-on-litex-vexriscv"]
+	path = zephyr-on-litex-vexriscv
+	url = https://github.com/antmicro/zephyr-on-litex-vexriscv.git
+[submodule "tflite-micro"]
+	path = tflite-micro
+	url = https://github.com/antmicro/tflite-micro.git
